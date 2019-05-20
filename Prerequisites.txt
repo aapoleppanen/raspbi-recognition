@@ -1,0 +1,8 @@
+Install for raspberry pi:
+- OpenCV facial recognizition library
+    sudo apt-get install libhdf5-dev libhdf5-serial-dev
+    sudo apt-get install libqtwebkit4 libqt4-test
+    sudo pip install opencv-contrib-python​
+
+    sudo apt-get install libopencv-dev python-opencv
+    test for existence using: import cv2
